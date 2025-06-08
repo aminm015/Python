@@ -1,36 +1,58 @@
-this project is one of the projects that i did during my internship at  @Cognifyz Technology 
- 
- Top Cuisines
-Determine the top three most common cuisines in the dataset.
-Calculate the percentage of restaurants that serve each of the top cuisines.
-City Analysis
-Identify the city with the highest number of restaurants in the dataset.
-Calculate the average rating for restaurants in each city.
-Determine the city with the highest average rating.
- Price Range Distribution
-Create a histogram or bar chart to visualize the distribution of price ranges among the restaurants.
-Calculate the percentage of restaurants in each price range category.
- Online Delivery
-Determine the percentage of restaurants that offer online delivery.
-Compare the average ratings of restaurants with and without online delivery.
- Restaurant Ratings
-Analyze the distribution of aggregate ratings and determine the most common rating range.
-Calculate the average number of votes received by restaurants.
-Cuisine Combination
-Identify the most common combinations of cuisines in the dataset.
-Determine if certain cuisine combinations tend to have higher ratings.
- Geographic Analysis
-Plot the locations of restaurants on a map using longitude and latitude coordinates.
-Identify any patterns or clusters of restaurants in specific areas.
-Restaurant Chains
-Identify if there are any restaurant chains present in the dataset.
-Analyze the ratings and popularity of different restaurant chains.
- Restaurant Reviews
-Analyze the text reviews to identify the most common positive and negative keywords.
-Calculate the average length of reviews and explore if there is a relationship between review length and rating.
- Votes Analysis
-Identify the restaurants with the highest and lowest number of votes.
-Analyze if there is a correlation between the number of votes and the rating of a restaurant.
- Price Range vs. Online Delivery and Table Booking
-Analyze if there is a relationship between the price range and the availability of online delivery and table booking.
-Determine if higher-priced restaurants are more likely to offer these services.
+# Restaurant Insight 🍽️📊
+
+Hey there!  
+This project is one of the cool things I worked on during my internship at [@Cognifyz Technology](https://cognifyz.com/).  
+It’s all about exploring restaurant data and uncovering fun and useful insights using Python!
+
+---
+
+## 🔍 What Can You Learn With This Project?
+
+Here’s a taste of what you’ll find inside:
+
+- **Top Cuisines:**  
+  - Find the top 3 most common cuisines
+  - See what percentage of restaurants serve each top cuisine
+
+- **City Analysis:**  
+  - Which city has the most restaurants?
+  - Average restaurant ratings by city
+  - Which city boasts the highest average rating?
+
+- **Price Range Distribution:**  
+  - Visualize price ranges (histogram/bar chart)
+  - See the percentage of restaurants in each price category
+
+- **Online Delivery:**  
+  - How many places offer online delivery?
+  - Compare ratings of restaurants with vs. without online delivery
+
+- **Restaurant Ratings:**  
+  - Distribution of ratings & most common rating range
+  - Average number of votes received
+
+- **Cuisine Combination:**  
+  - Most popular cuisine combos
+  - Do certain combos get better ratings?
+
+- **Geographic Analysis:**  
+  - Plot restaurants on a map by location
+  - Spot clusters or patterns in specific areas
+
+- **Restaurant Chains:**  
+  - Are there chains in the data?
+  - Compare ratings and popularity of different chains
+
+- **Restaurant Reviews:**  
+  - Most common positive/negative keywords in reviews
+  - Does review length affect the rating?
+
+- **Votes Analysis:**  
+  - Restaurants with the highest/lowest votes
+  - Is there a link between votes and ratings?
+
+- **Price Range vs. Online Delivery & Table Booking:**  
+  - Do higher-priced places offer more delivery or table booking?
+  - Analyze the connection between price and these services
+
+---
