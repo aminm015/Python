@@ -76,9 +76,7 @@ Sales and units sold vary significantly by location.
 ---
 
 ##  Where Did This Data Come From?
-
-Big shoutout to [Kaggle](https://www.kaggle.com) for this awesome dataset!  
-It’s a fantastic resource for anyone curious about retail trends.
+Source:https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 ---
 
